@@ -1,1 +1,2 @@
-foo: this-is-from-config-server
+foo: this-is-from-config-server2
+test: config-server-test22
