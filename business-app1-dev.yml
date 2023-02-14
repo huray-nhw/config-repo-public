@@ -1,1 +1,2 @@
 foo: config-server
+test: "{cipher}ebc6bbb440c00b326a303908a172251e63942aa36b616ef986e1209d4b3c63b8"
